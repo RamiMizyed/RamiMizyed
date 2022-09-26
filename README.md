@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiMizyed
-- 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning Full Stack WebDevelpoment
-- 💞️ I’m looking to collaborate on Webgl Projects
+- 👀 I’m interested in Front-end Web Development
+- 🌱 I’m currently learning Reactjs/Next.
+- 💞️ I’m looking for work.
 - 📫 How to reach me rami.isam.yes@gmail.com
 
