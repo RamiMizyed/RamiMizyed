@@ -1,26 +1,34 @@
-# Hi, I'm Rami 👋
+# Rami Mizyed
 
-🎯 Frontend Developer | UX-Focused | React · Next.js · WordPress  
-🌱 Founder of [Green Awareness](#) | Frontend Lead @ GCA
+Frontend developer focused on minimal, accessible design.  
+I build thoughtful interfaces using React, Next.js, and WordPress.  
 
----
-
-### 🚀 Projects
-- 🔥 [3D Audio Visualizer](#) – React Three Fiber + GSAP animations
-- 🌿 [Green Awareness](#) – Sustainability platform built with Next.js
-- 🌍 [GCA NGO Site](#) – Accessible, custom WordPress site
+Founder of [Green Awareness](https://ramimizyed.dev/#projects) – a sustainability platform.  
+Frontend lead at Global Campus Alumni (GCA).
 
 ---
 
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwindcss)
-![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat&logo=greensock)
+## Projects
+
+- **[3D Audio Visualizer](https://ramimizyed.dev/#projects)**  
+  Interactive music experience using React Three Fiber and GSAP.
+
+- **[Green Awareness](https://ramimizyed.dev/#projects)**  
+  Sustainability-focused platform powered by Next.js and TailwindCSS.
+
+- **[GCA NGO Website](https://ramimizyed.dev/#projects)**  
+  Custom, accessible WordPress build for a global human rights network.
 
 ---
 
-📫 Reach me:  
-[Portfolio](https://ramimizyed.dev) • [LinkedIn](#) • [YouTube](#)
+## Tech
+
+React · Next.js · TypeScript · GSAP · TailwindCSS · WordPress · Blender
+
+---
+
+## Contact
+
+**Portfolio** → [ramimizyed.dev](https://ramimizyed.dev)  
+**LinkedIn** → [linkedin.com/in/rami-mizyed](https://www.linkedin.com/in/rami-mizyed-b94273183/)
 
