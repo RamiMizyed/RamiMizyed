@@ -1,23 +1,37 @@
+
+
 # Rami Mizyed
 
 Frontend developer focused on minimal, accessible design.  
 I build thoughtful interfaces using React, Next.js, and WordPress.  
 
-Founder of [Green Awareness](https://ramimizyed.dev/#projects) – a sustainability platform.  
-Frontend lead at Global Campus Alumni (GCA).
+Founder of [Green Awareness](https://greenawareness.org) – a sustainability platform.  
+Frontend Lead at Global Campus Alumni.
 
 ---
 
 ## Projects
 
-- **[3D Audio Visualizer](https://ramimizyed.dev/#projects)**  
-  Interactive music experience using React Three Fiber and GSAP.
+- **[Green Awareness](https://greenawareness.org)**  
+  Sustainability-focused platform built with Next.js and TailwindCSS.
 
-- **[Green Awareness](https://ramimizyed.dev/#projects)**  
-  Sustainability-focused platform powered by Next.js and TailwindCSS.
+- **[Global Campus Alumni](https://globalcampusalumni.org)**  
+  Custom-designed WordPress site for a global human rights NGO.
 
-- **[GCA NGO Website](https://ramimizyed.dev/#projects)**  
-  Custom, accessible WordPress build for a global human rights network.
+- **[ramimizyed.dev](https://ramimizyed.dev)**  
+  My personal portfolio — clean, fast, and built with modern tech.
+
+- **[BTS Studios](https://www.btsstudios.com)**  
+  Agency website rebuilt with performance and elegance in mind.
+
+- **[Cascade Clarity](https://cascadeclarity.ai)**  
+  AI-driven mental clarity tool with a modern user interface.
+
+- **[Salesmrkt](https://salesmrkt.com)**  
+  Marketing automation platform — frontend + backend contributions.
+
+- **[EZ Survey Pro](https://www.ezsurveypro.com)**  
+  Survey platform with clean UX for fast, frictionless responses.
 
 ---
 
@@ -31,4 +45,3 @@ React · Next.js · TypeScript · GSAP · TailwindCSS · WordPress · Blender
 
 **Portfolio** → [ramimizyed.dev](https://ramimizyed.dev)  
 **LinkedIn** → [linkedin.com/in/rami-mizyed](https://www.linkedin.com/in/rami-mizyed-b94273183/)
-
